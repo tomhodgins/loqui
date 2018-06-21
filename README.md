@@ -42,7 +42,7 @@ Here the message has been stored as an object, with a `text` property and a `sty
 ```js
 [
   {
-    style: 'loqui test',
+    text: 'loqui test',
     style: [defaultStyles, 'background: dodgerblue;']
   }
 ]
