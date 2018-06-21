@@ -1,0 +1,34 @@
+{
+  "name": "loqui",
+  "version": "0.0.1",
+  "description": "Style console.log() messages with ease",
+  "main": "loqui.cjs.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomhodgins/loqui.git"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "logger",
+    "logging",
+    "message",
+    "string",
+    "style",
+    "css",
+    "pretty",
+    "fancy"
+  ],
+  "author": "Tommy Hodgins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomhodgins/loqui/issues"
+  },
+  "homepage": "https://github.com/tomhodgins/loqui#readme"
+}
