@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Style console.log() messages with ease",
   "main": "loqui.cjs.js",
+  "module": "loqui.es.js",
   "directories": {
     "test": "test"
   },
